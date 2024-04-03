@@ -1,0 +1,191 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Localization Main Table_fr
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: fr
+  m_SharedData: {fileID: 11400000, guid: 53a52d066a72aad458597585558aa50b, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8152111703814832131
+  m_TableData:
+  - m_Id: 783710703616
+    m_Localized: Jouer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 962530660352
+    m_Localized: Parametres
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084714930176
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1119355686912
+    m_Localized: Quitter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1224045514752
+    m_Localized: Parametres
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266256990208
+    m_Localized: Volume Global
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1305431789568
+    m_Localized: Volume Musique
+    m_Metadata:
+      m_Items:
+      - rid: 8152111703814832131
+  - m_Id: 1338709397504
+    m_Localized: Volume Sons
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1389909266432
+    m_Localized: Langue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1432657612800
+    m_Localized: Police
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1471010328576
+    m_Localized: Flash de l'ecran
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1588060770304
+    m_Localized: Retour au menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1868273831936
+    m_Localized: 'Fait par
+
+      Florian Baheux'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1969708879872
+    m_Localized: Ressources*
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2010649481216
+    m_Localized: '*Clique pour ouvrir le site d''origine !'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2484949766144
+    m_Localized: "<link=\"https://www.dafont.com/kirbys-adventure.font\">Police Kirby
+      \u2022 davidfens</link>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2741066551296
+    m_Localized: "<link=\"https://greatdocbrown.itch.io/gamepad-ui\">Icones manettes
+      \u2022 greatdocbrown</link>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2825434976256
+    m_Localized: Remerciements
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2855705268224
+    m_Localized: "Nicolas Casaretto \u2022Tous les sons "
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2949099835392
+    m_Localized: "Ce jeu est un hommage au mini-jeu homonyme dans Kirby Super Star. 
+      \nExiste a but non-commercial dans le contexte de mon portfolio.\nToutes les
+      musiques et images de Kirby \nappartiennent \xE0 Nintendo et HAL Laboratory.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5106645618688
+    m_Localized: Soit le premier a appuyer sur le bouton quand il apparait !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221114513772544
+    m_Localized: Pseudonyme...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221267710726144
+    m_Localized: Rejoindre une partie !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223880393019392
+    m_Localized: Retour au menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224125973712896
+    m_Localized: Soit le premier a appuyer sur le bouton quand il apparait !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225171227824128
+    m_Localized: Pret !
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225257299136512
+    m_Localized: Quitter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225325485936640
+    m_Localized: 'Difficulte :'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225505832620032
+    m_Localized: Facile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225585599893504
+    m_Localized: Moyen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225727245733888
+    m_Localized: Difficile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228029583085568
+    m_Localized: Tableau des scores
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228232448987136
+    m_Localized: Rejouer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228256994054144
+    m_Localized: Quitter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13402325218250752
+    m_Localized: Recherche d'un autre joueur en cours...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13402460203536384
+    m_Localized: Recherche d'un autre joueur en cours...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14341329526738944
+    m_Localized: Facile
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14341347369308160
+    m_Localized: Moyen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14341362716266496
+    m_Localized: Difficile
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8152111703814832131
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0050ccf12f010000

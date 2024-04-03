@@ -1,0 +1,185 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Localization Main Table_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 53a52d066a72aad458597585558aa50b, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 783710703616
+    m_Localized: Play
+    m_Metadata:
+      m_Items: []
+  - m_Id: 962530660352
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1084714930176
+    m_Localized: Credits
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1119355686912
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1224045514752
+    m_Localized: Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1266256990208
+    m_Localized: Global Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1305431789568
+    m_Localized: Music Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1338709397504
+    m_Localized: Sounds Volume
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1389909266432
+    m_Localized: Language
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1432657612800
+    m_Localized: Font
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1471010328576
+    m_Localized: Flashing screen
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1588060770304
+    m_Localized: Close Settings
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1868273831936
+    m_Localized: 'Made by
+
+      Florian Baheux'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1969708879872
+    m_Localized: Assets*
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2010649481216
+    m_Localized: '*you can click to see the source!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2484949766144
+    m_Localized: "<link=\"https://www.dafont.com/kirbys-adventure.font\">Kirby font
+      \u2022 davidfens</link>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2741066551296
+    m_Localized: "<link=\"https://greatdocbrown.itch.io/gamepad-ui\">Gamepad Icons
+      \u2022 greatdocbrown</link>"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2825434976256
+    m_Localized: Special Thanks
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2855705268224
+    m_Localized: "Nicolas Casaretto \u2022 voiced all sounds"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2949099835392
+    m_Localized: "This game is an <i>hommage</i> to Samurai Kirby \nas appearing
+      within Kirby Super Star.\nOnly for non-commercial use in the context of my
+      own portfolio.\nAll Kirby assets' rights belong to Nintendo and HAL Laboratory.\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 5106645618688
+    m_Localized: Be the first to press the button when it appears!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221114513772544
+    m_Localized: Your nickname...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 221267710726144
+    m_Localized: Join a game!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 223880393019392
+    m_Localized: Back to menu
+    m_Metadata:
+      m_Items: []
+  - m_Id: 224125973712896
+    m_Localized: Be the first to press the button when it appears!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225171227824128
+    m_Localized: Ready!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225257299136512
+    m_Localized: Leave
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225325485936640
+    m_Localized: 'Difficulty:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225505832620032
+    m_Localized: Easy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225585599893504
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 225727245733888
+    m_Localized: Hard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228029583085568
+    m_Localized: Scoreboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228232448987136
+    m_Localized: Replay
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228256994054144
+    m_Localized: Quit
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13402325218250752
+    m_Localized: Looking for another player...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 13402460203536384
+    m_Localized: Looking for another player...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14341329526738944
+    m_Localized: Easy
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14341347369308160
+    m_Localized: Medium
+    m_Metadata:
+      m_Items: []
+  - m_Id: 14341362716266496
+    m_Localized: Hard
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

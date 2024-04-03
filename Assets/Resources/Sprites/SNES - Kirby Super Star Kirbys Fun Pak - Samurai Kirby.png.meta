@@ -1,0 +1,4593 @@
+fileFormatVersion: 2
+guid: 36ad1ffe8578e9f4d87632510971816c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 1
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 697
+        width: 256
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b130f855650e1340b6c7f4212caf528
+      internalID: -13225736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_1
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 697
+        width: 256
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da215611b2b42ba4ebfb84043667874b
+      internalID: 1624234519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 678
+        width: 50
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebb7d2e3f6bb864da2f452f171d3ff2
+      internalID: 1438887984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 662
+        width: 26
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342fcd27195a1c640b2a0b23c3c15deb
+      internalID: -722490166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_4
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 664
+        width: 27
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06db9bca5cda37e49868dc942d898904
+      internalID: 1592328730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 664
+        width: 53
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca3996d9294b3734fbccc9cbfe6ef4b7
+      internalID: -1281299526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 664
+        width: 45
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff8ab8f49eb96d47be8543cf7088cb8
+      internalID: -1689427769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_7
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 664
+        width: 45
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1a8edccec23ff4d84c91cf7eb88170
+      internalID: 1154645684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_8
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 646
+        width: 32
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c340723fa74c6b4f8e9c8eafa424127
+      internalID: -1500829697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_9
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 646
+        width: 33
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15e378a56ffdc44da2629ebad77bdd9
+      internalID: 1657658903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_10
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 646
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78b3583d58569e40956fa42c732ffe7
+      internalID: -797125739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_11
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 646
+        width: 32
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c8ca611457f5e549ae9a0cedd0b046c
+      internalID: 503725902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_12
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 678
+        width: 40
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190c17d89f8b11649988ea1c184ed43e
+      internalID: 138565352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_13
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 678
+        width: 77
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0700eafe63f4aa248a0aaa58daf0822b
+      internalID: -1965097853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_14
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 590
+        width: 24
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81a51f55f48547448b98cd86df1ddb2
+      internalID: 603562961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 627
+        width: 24
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2518d5e02470f14696c5d6f7f792765
+      internalID: 1461146303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_16
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 635
+        width: 24
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b85a4ed054ab0a42b8fd4e7b1907c7f
+      internalID: 1057611666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_17
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 628
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803e7ab37a9130942bf46e892feb1969
+      internalID: 1138856079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 628
+        width: 49
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9b4f8336b95ea4191a80a567c1a428
+      internalID: 1654840187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_19
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 628
+        width: 49
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab32b2ce5f10d61488cecc920200103b
+      internalID: 1678425623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_20
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 628
+        width: 42
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22536efcd6a7714fb5b5c3be6f23545
+      internalID: 177556978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 628
+        width: 42
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ad4f590b5e2a84c8b331ecf3468235
+      internalID: -1315275574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_22
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 599
+        width: 75
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7aac432de6f7b646b4843394928687d
+      internalID: 1762774091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_23
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 599
+        width: 75
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca1b6093620ce3479bedb60e1d6a1ec
+      internalID: -959240877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 591
+        width: 46
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4e66567c6cc794ca7d13c25b043427
+      internalID: -1950171056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_25
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 591
+        width: 43
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8821a2f721006e42bb2565d7afe36ff
+      internalID: 1616652629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_26
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 591
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a400bfdacd4d219408568a3c4e0fcc6f
+      internalID: 1706090154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_27
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 591
+        width: 24
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0ddb132352e10429d60e94d9d80b4f
+      internalID: 760971976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_28
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 591
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c7b57c7ec947d4989f8e60af3a707f
+      internalID: 718042761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_29
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 591
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684ea88aff75fea439c0bec048196803
+      internalID: 1451368466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_30
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 599
+        width: 70
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c030f1527b0ab54788cc023948a0614
+      internalID: -311756278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_31
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 599
+        width: 70
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357912554f42dfe46ac8471fa07986e5
+      internalID: 961365447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 541
+        width: 256
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab7a334daa5d834408a4048c433ac126
+      internalID: -1704242388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_33
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 541
+        width: 256
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a88f04a3c8f3f40b079a6bf6c3bd4a
+      internalID: -1984352604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 466
+        width: 24
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aa3d82bd5ecdb48a1dd5b7ac1d31f5
+      internalID: -2011661829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_35
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 522
+        width: 69
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad42d29ca843907429a0ecd52b4ccdd0
+      internalID: 698863760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 522
+        width: 39
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23031852ab103a748aa21beead312ad2
+      internalID: -438040286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_37
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 522
+        width: 39
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f348050df6975a3469347fe2db883f37
+      internalID: -1092812081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_38
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 522
+        width: 24
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7afe7f726ff8b4489673aa8bee1326b
+      internalID: 214019306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_39
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 522
+        width: 24
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947658879f9456e45bf14d1d9daef221
+      internalID: -1858033268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_40
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 522
+        width: 24
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc7a654c0bff0a4b943a3bedf305497
+      internalID: 363454107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_41
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 450
+        width: 24
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741917dae36943d41be06d7864033d2e
+      internalID: 512573142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_42
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 485
+        width: 29
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0e1cb08971c814091e1423f474d86f
+      internalID: -617522780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_43
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 486
+        width: 53
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39443f4c65950e845a3d89a5b5e0e38b
+      internalID: 903960115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_44
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 486
+        width: 40
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d6136befced8945937802f75b4fb24
+      internalID: -2056489520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_45
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 486
+        width: 45
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce9ea1d91290974c8965d2e7899f77f
+      internalID: 2082386369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_46
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 460
+        width: 40
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e2311f41d8f1741958d242c5a0f127
+      internalID: -1317122162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_47
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 460
+        width: 75
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70962946cd54024da43f476a8f693b1
+      internalID: -728792285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_48
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 460
+        width: 75
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4e45e8d6666ef44a9c1c85b8465aff
+      internalID: -1227787926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_49
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 460
+        width: 63
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c24cd2d2adda4b47832a667df010660
+      internalID: 1694283886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 417
+        width: 256
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4939a86787846194d87b7699206d9d69
+      internalID: -1358124081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_51
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 401
+        width: 256
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf2fff168a5ec647924828302ab886d
+      internalID: -272808762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 358
+        width: 24
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c49f3bab91467eb48a92c09ffc33c0cf
+      internalID: 1379227226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_53
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 398
+        width: 72
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373e5056aced8ba478868ab437c883f3
+      internalID: -106620011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_54
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 354
+        width: 37
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66576909db9240740aac359cc902b09b
+      internalID: 1835615607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_55
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 354
+        width: 38
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64539663d766654eb36779b728c0695
+      internalID: 1881290398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_56
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 354
+        width: 38
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b468166c1171ee44a839d514f4180eca
+      internalID: 2076488595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_57
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 354
+        width: 55
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 544e918d2e43a034c9a6668144cf5d71
+      internalID: -450622181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_58
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 382
+        width: 45
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c6568647a7688b438e74c275d1ee0b4
+      internalID: -758657465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_59
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 382
+        width: 63
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6360c1ce80a654aa32772aaeb8d967
+      internalID: -2141698935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_60
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 318
+        width: 24
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeafb136122c1e540a86b38e8a567cc0
+      internalID: -1893808845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_61
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 363
+        width: 26
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed745bd3b56c9b44abb35d001d3445f
+      internalID: -242349081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_62
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 337
+        width: 32
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba3bdcf81f685a4cb6a5a4322670d25
+      internalID: 1368818651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_63
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 337
+        width: 40
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb95475e4418d5540bdafb634bf1a1d7
+      internalID: -1217855541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_64
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 314
+        width: 36
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6782404931c144d93f09d286f52b0a
+      internalID: -340182118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_65
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 314
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e49c7a07843a940af5f11f60daf06e
+      internalID: 1202148994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_66
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 314
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d1ac1059a3d374292899b497fc129e
+      internalID: 322444669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_67
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 314
+        width: 35
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fd88b1a7fa26a4080b5654b3e0b111
+      internalID: -918123455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_68
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 314
+        width: 35
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce9d38866e86c444bc76bc75698063a
+      internalID: 753628535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_69
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 314
+        width: 34
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede9f98f6440c5b40a277d4e889bb1d7
+      internalID: 1500570024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_70
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 314
+        width: 34
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f217bf4d2f684d469fc3d658f7c9c95
+      internalID: 1558486922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_71
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 337
+        width: 25
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e86f65f0be029bf4bad4e8e709e1e453
+      internalID: -486505862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_72
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 337
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a646a5e09579249b566edafd065cb9
+      internalID: -2015377805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_73
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 337
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b17455841c31b4692471185f581c08
+      internalID: 242571090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_74
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 337
+        width: 32
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ae39c816351c9a4ab407cd4eafbd59e
+      internalID: 1665831162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_75
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 336
+        width: 16
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a18fe2f584be7408cf00fc1c4da60e
+      internalID: -1048869606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 228
+        width: 24
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24fced111631dea4e8a255ef19ddf120
+      internalID: 886680876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_77
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 248
+        width: 63
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 101e11720d5bebd46b2f398efd8e5ed1
+      internalID: -1036648932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_78
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 248
+        width: 76
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1778ef87db469624d8166784c65f43e3
+      internalID: 489707589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_79
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 248
+        width: 80
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a371c9ae6932c5419779ec8c521a8ed
+      internalID: -178943475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_80
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 248
+        width: 101
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e4471be2478dd4491c617ce41b6541
+      internalID: -346034673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_81
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 248
+        width: 64
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e33a4792cb5e3a4e8d34166244fb42d
+      internalID: -1345924351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_82
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 244
+        width: 46
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e94fcac748a4242938c6d286355e98
+      internalID: -2136018229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_83
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 242
+        width: 47
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df29904795e285a49b8925ff388af2b3
+      internalID: 157084262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_84
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 241
+        width: 54
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a0402db771ea2428dcb2d7d49cb944
+      internalID: 207393090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_85
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3
+        width: 256
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 667d76082e74eda4e8cb4688f3ec36bd
+      internalID: 931771797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_86
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 191
+        width: 48
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b259d817bdb63f4096181261e6ac77d
+      internalID: -476863087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_87
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 164
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bc71b0839eded46aa8003f03161cb0
+      internalID: 558146204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_88
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 164
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 716768ec6cfecbf48b2292d850b8ca84
+      internalID: 148316280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_89
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 164
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33d570672f9bcb84d9ccc666802dc344
+      internalID: -772600444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_90
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 164
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4ee3142d5419a47bc67b4c9a66b32b
+      internalID: 604475701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_91
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 164
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7349e57867a24459a042c5b047e78f
+      internalID: 253529082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_92
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 164
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3a02cb93e2745469b18d345a083126
+      internalID: -154873374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_93
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 164
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ff71a48f96bbc4bb008a1314b29744
+      internalID: 2069803433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_94
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 164
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb13c46ac7f474842a2709f2af65a999
+      internalID: 1761695120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_95
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 162
+        width: 18
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee063cfee7c573b4e8b358d143968579
+      internalID: -235562694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_96
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 164
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254db37fc7f3dc54fa6cc3a915c95c99
+      internalID: 83606764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_97
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 164
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596d4b9dfee994946b11722f9e56e812
+      internalID: 2121073913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_98
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 164
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f27e6dc2b337d044fad81b08ae7fbda8
+      internalID: 1082370561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_99
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 164
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a513355000a4924429a3c9da8684e319
+      internalID: 1882588912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_100
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 164
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf64d6251ddc5634eb73a024e66ff3c4
+      internalID: 1652542069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_101
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 164
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86074d9a6b5851047806950284b5629f
+      internalID: -1865153499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_102
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 162
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ac3ce9e2c9a92498aca4de240fdccd
+      internalID: 213251930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_103
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 164
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b5d2d5322ac994ba5d59da4f3409b6
+      internalID: -871056763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_104
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 164
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cec71dc67344294aae22b3fb5b6f689
+      internalID: -852470448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_105
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 162
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b864f78d4818a784dba41badac5c91d3
+      internalID: -107711808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_106
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 164
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa26d6ee5c230945950fee0294856ec
+      internalID: -1283472900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_107
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 164
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad858246df99dd24085e2efc252e799b
+      internalID: 543125525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_108
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 164
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c54a56b641c08488754b79e1716eb6
+      internalID: 1453795146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_109
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 164
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca4a13688a1d714aa4a7ab1ea377534
+      internalID: -1115721114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_110
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 164
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46754453980b8a4c999e1493602d594
+      internalID: -1345506625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_111
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 134
+        width: 19
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c873c2633994b64887221768417d2d0
+      internalID: 1642826773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_112
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 132
+        width: 17
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d926b1325055e40bb336fe61458232
+      internalID: -694912349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_113
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 134
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acb648c07593944c8a2922ffe54e7a8
+      internalID: 1948890440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_114
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 132
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596b04435eecd5741a37badd307da93e
+      internalID: -900017022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_115
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 134
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e692a663a97fd04d9295fe6140780be
+      internalID: -1490621114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_116
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 134
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21aeada5da25e541822414aa8379c49
+      internalID: 352328014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_117
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 134
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ae949ba8a336849a4d5841a7a8e807
+      internalID: -82061134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_118
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 134
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5940e18ed0416c04eab2a86d7d2ef20f
+      internalID: 1917308685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_119
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 134
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b24d2b42b734c14fa004de75869ba3f
+      internalID: -2087176697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_120
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 134
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87eb15aef2ad9f146abd97dcd00b6681
+      internalID: -292918396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_121
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 132
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c90a896a189981479107e0c625d7733
+      internalID: 1404972647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_122
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 134
+        width: 5
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3060cab2b41fb445a008f18521ba87a
+      internalID: 1773179559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_123
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 134
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb411bbdbbd6164ea219ba656ca0b64
+      internalID: -617642433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_124
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 134
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bc7238f673920439ced6825dcdf15a
+      internalID: 422269373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_125
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 134
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648096087be220148b84478b2c8303b8
+      internalID: 283805819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_126
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 132
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f49f97455d2cb7459da7be34ad2ac15
+      internalID: 198603677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_127
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 134
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183b704c7dcc1254fb19116aad7272ec
+      internalID: -582802541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_128
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 134
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd8eb182e6cb11408b421ac6e7ae6d1
+      internalID: -365827251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_129
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 132
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334daf88b05ec3c4f9fb04fbd3aed6fb
+      internalID: -487162646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_130
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 119
+        width: 18
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c519ea251f87d418729ca07883fedf
+      internalID: -324937210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_131
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 119
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4882d63e888afae4386af4c71d66bc31
+      internalID: -1384626670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_132
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 119
+        width: 18
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a740e79a8dff42940bc4be1a5f304776
+      internalID: 1822423263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_133
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 119
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb0b69d84051904fb282d9d4847301c
+      internalID: -1925435737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_134
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 119
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac5173ed22c46145816fdbf6770ad7f
+      internalID: 526125043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_135
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 119
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9830b66741843f347b9c8620c1e4707b
+      internalID: -1930352626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_136
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 119
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905ed663c049a5448a4d5a568cd7da5f
+      internalID: 1539901281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_137
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 119
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981d348f3b471e44d9c6e89b30854f59
+      internalID: 88949748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_138
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 119
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fcd37e63248ed4fbd86fac3f9d50dc
+      internalID: 1426147634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_139
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 119
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1498cf4a6880bfd4fb702462bdf5c919
+      internalID: 663440875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_140
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 119
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081e572a14309b2449e3df3b75c798b4
+      internalID: 244567506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_141
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 119
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83efb8e090cdf3c448887d9c0feef91e
+      internalID: -1272854603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_142
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 117
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54778e0130e5fd4da71c4a757bf65ad
+      internalID: -437868773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_143
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 119
+        width: 18
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0935fb24ef8a50748b8c6ef43738801f
+      internalID: 1968532197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_144
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 119
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f9045f1a531f54181b776e11d1a1a3
+      internalID: 878049920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_145
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 119
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7e8c2d8ce868644a2ed3c80f95198d
+      internalID: -1084468608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_146
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 119
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ef5403e3180dd469f9860b121b4ca5
+      internalID: -93609686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_147
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 119
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99d474ccb199f54dad0496500cb85da
+      internalID: 69675801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_148
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 119
+        width: 10
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ac88f06fda74242b15db6f7fb1a9e1
+      internalID: -1739973178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_149
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 119
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ea5edf9cecbc4449c6f401a38e6235
+      internalID: 1631319693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_150
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 119
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081e8f19ee3cfac4b8b1523848e54799
+      internalID: 393324413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_151
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 117
+        width: 18
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcd55b027d6567c4ab5fa2f5f72d448a
+      internalID: 492032537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_152
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 104
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e91eadfcc19ded4f85efe882c015335
+      internalID: -403782851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_153
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 104
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a58ab6402ac29cc4e97681bb18d20c2f
+      internalID: -2002096489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_154
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 104
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a99c07bbde6a34a8b876ba358c8009
+      internalID: -165583901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_155
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 104
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fc5392228069842bcbed4375d66f93
+      internalID: 1543150187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_156
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 104
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6560a4836e13bd48a8389646a3f030c
+      internalID: -794176914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_157
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 104
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67658f7f958225c45a45a915696d666c
+      internalID: 1976235344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_158
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 102
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfeffe7f239a1a48907329288b82848
+      internalID: -1854231413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_159
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 104
+        width: 4
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9e6e1b879dd86489b1a270a4649dd5
+      internalID: 737034220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_160
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 104
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f992c7fc8dde34682381c7e6b84b5b
+      internalID: -1151244089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_161
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 104
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deab4a3f5450f5e418a8eefcd85964f3
+      internalID: -358056652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_162
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 104
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c990d12858552294c92ce6aed09612ed
+      internalID: 611047736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_163
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 102
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9efa82bba5c66ef43936456e678262c6
+      internalID: 1872998118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_164
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 104
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e06004a8cbad146b69955bc9132642
+      internalID: 1539435443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_165
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 104
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15192f447413934da054a4b0b766a8c
+      internalID: -2120327548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_166
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 104
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9feaf3731d2834c85d3377a9a8dc69
+      internalID: 634513977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_167
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 104
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260133fa1c0e8cb42bfad4792fb6033f
+      internalID: -942905061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_168
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 104
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd81a05eb574ccd45a2dc1c34b9ba604
+      internalID: -207413401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_169
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 104
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392d479949248a94da3bcc1456e6fced
+      internalID: 490424903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_170
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 104
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5077fc4ffde5fa140abc24de51a40782
+      internalID: 537873915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_171
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 104
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcfc1584f35d39c4cb7debf82cf4d204
+      internalID: -1321544142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_172
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 104
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53e5d8692b8b5bb4bac6ebd716d8a0d7
+      internalID: 1328068989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_173
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 102
+        width: 9
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb839c151b5f4246a1d6818c886686c
+      internalID: 646519933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_174
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 102
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fa77feece6c744a827f8adbeb1c8c3
+      internalID: 1561580006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_175
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 104
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700848b14468f584480b9999366241f2
+      internalID: -1666581560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_176
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 104
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d336d424eda87498d0cd7e9ee83ede
+      internalID: -1340604650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_177
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 102
+        width: 13
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3147805decf3dd48915b58dab6f2e5a
+      internalID: -1371704080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_178
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 89
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a9d696638488e40b5ca57b384a12f2
+      internalID: 1082264844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_179
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 89
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83f2722a49528747ac864be73a6fbef
+      internalID: 462431767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_180
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 89
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cb71fe9f429944782548431cdc875b
+      internalID: 628530525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_181
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 89
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426e5e000fff24349935a196ece641e3
+      internalID: 1640228775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_182
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 89
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3183fa60cf8a6848843695b710d1c76
+      internalID: -348136216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_183
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 89
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515f9db26027a444387f5a0a3615a1e9
+      internalID: 1505133547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_184
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 87
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d684782c4622fcc45a075029920ee959
+      internalID: 62282389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_185
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 89
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b2a356576c04f4a8ad305d4d2d0d77
+      internalID: -2115942421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_186
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 89
+        width: 11
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9441899aded3d41904220d96805f48
+      internalID: -1336996383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_187
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 89
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b777736a7c90f1148a3b290adb66e181
+      internalID: 169616205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_188
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 87
+        width: 9
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f49335f6070a2b4f9826f0dc123a17c
+      internalID: 1850951164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_189
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 89
+        width: 15
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4d6983c1c7fe24db9f862b9e1e0888
+      internalID: -963224223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_190
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 89
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bf1489dda2f414f919897534656ebd
+      internalID: 140055485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_191
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 89
+        width: 12
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1100818580f78840b55ec48162d5714
+      internalID: -258817317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_192
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 89
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ace753fc06f684186e6549f7f4be0b
+      internalID: 2054047748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_193
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 89
+        width: 4
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7985e4a1a8a8de449ba83e0f28e4888
+      internalID: -1317461965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_194
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 89
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b959d8509801924ea62a9db0852d639
+      internalID: 1833388674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_195
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 89
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd67def77818447409be510113aed9f6
+      internalID: 1619869173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_196
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 89
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02718fe4de2cf34081810c19afc5575
+      internalID: 1758822074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_197
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 89
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8e0e6078d813743a8c728152ef1dda
+      internalID: -1405779067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_198
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 87
+        width: 6
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2dad09ad4245094b900761b5c81e680
+      internalID: -923908058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_199
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 89
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2dfad1a05273bd46b31767c9d97b042
+      internalID: -1586243947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_200
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 89
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52909ba2f621f24785f7a81be1c725d
+      internalID: 1883954982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_201
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 89
+        width: 6
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d006c213b9b5fb4eacdf90ee68d351a
+      internalID: 232564283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_202
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 89
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a52bebea5035b745a51e99bdb2f9123
+      internalID: -1210034031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_0: -13225736
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_1: 1624234519
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_10: -797125739
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_100: 1652542069
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_101: -1865153499
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_102: 213251930
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_103: -871056763
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_104: -852470448
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_105: -107711808
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_106: -1283472900
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_107: 543125525
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_108: 1453795146
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_109: -1115721114
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_11: 503725902
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_110: -1345506625
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_111: 1642826773
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_112: -694912349
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_113: 1948890440
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_114: -900017022
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_115: -1490621114
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_116: 352328014
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_117: -82061134
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_118: 1917308685
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_119: -2087176697
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_12: 138565352
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_120: -292918396
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_121: 1404972647
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_122: 1773179559
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_123: -617642433
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_124: 422269373
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_125: 283805819
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_126: 198603677
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_127: -582802541
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_128: -365827251
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_129: -487162646
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_13: -1965097853
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_130: -324937210
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_131: -1384626670
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_132: 1822423263
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_133: -1925435737
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_134: 526125043
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_135: -1930352626
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_136: 1539901281
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_137: 88949748
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_138: 1426147634
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_139: 663440875
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_14: 603562961
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_140: 244567506
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_141: -1272854603
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_142: -437868773
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_143: 1968532197
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_144: 878049920
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_145: -1084468608
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_146: -93609686
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_147: 69675801
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_148: -1739973178
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_149: 1631319693
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_15: 1461146303
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_150: 393324413
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_151: 492032537
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_152: -403782851
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_153: -2002096489
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_154: -165583901
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_155: 1543150187
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_156: -794176914
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_157: 1976235344
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_158: -1854231413
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_159: 737034220
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_16: 1057611666
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_160: -1151244089
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_161: -358056652
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_162: 611047736
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_163: 1872998118
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_164: 1539435443
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_165: -2120327548
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_166: 634513977
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_167: -942905061
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_168: -207413401
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_169: 490424903
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_17: 1138856079
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_170: 537873915
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_171: -1321544142
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_172: 1328068989
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_173: 646519933
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_174: 1561580006
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_175: -1666581560
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_176: -1340604650
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_177: -1371704080
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_178: 1082264844
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_179: 462431767
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_18: 1654840187
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_180: 628530525
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_181: 1640228775
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_182: -348136216
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_183: 1505133547
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_184: 62282389
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_185: -2115942421
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_186: -1336996383
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_187: 169616205
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_188: 1850951164
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_189: -963224223
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_19: 1678425623
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_190: 140055485
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_191: -258817317
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_192: 2054047748
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_193: -1317461965
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_194: 1833388674
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_195: 1619869173
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_196: 1758822074
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_197: -1405779067
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_198: -923908058
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_199: -1586243947
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_2: 1438887984
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_20: 177556978
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_200: 1883954982
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_201: 232564283
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_202: -1210034031
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_21: -1315275574
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_22: 1762774091
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_23: -959240877
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_24: -1950171056
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_25: 1616652629
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_26: 1706090154
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_27: 760971976
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_28: 718042761
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_29: 1451368466
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_3: -722490166
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_30: -311756278
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_31: 961365447
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_32: -1704242388
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_33: -1984352604
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_34: -2011661829
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_35: 698863760
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_36: -438040286
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_37: -1092812081
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_38: 214019306
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_39: -1858033268
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_4: 1592328730
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_40: 363454107
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_41: 512573142
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_42: -617522780
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_43: 903960115
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_44: -2056489520
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_45: 2082386369
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_46: -1317122162
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_47: -728792285
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_48: -1227787926
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_49: 1694283886
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_5: -1281299526
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_50: -1358124081
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_51: -272808762
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_52: 1379227226
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_53: -106620011
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_54: 1835615607
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_55: 1881290398
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_56: 2076488595
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_57: -450622181
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_58: -758657465
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_59: -2141698935
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_6: -1689427769
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_60: -1893808845
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_61: -242349081
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_62: 1368818651
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_63: -1217855541
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_64: -340182118
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_65: 1202148994
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_66: 322444669
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_67: -918123455
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_68: 753628535
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_69: 1500570024
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_7: 1154645684
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_70: 1558486922
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_71: -486505862
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_72: -2015377805
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_73: 242571090
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_74: 1665831162
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_75: -1048869606
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_76: 886680876
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_77: -1036648932
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_78: 489707589
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_79: -178943475
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_8: -1500829697
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_80: -346034673
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_81: -1345924351
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_82: -2136018229
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_83: 157084262
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_84: 207393090
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_85: 931771797
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_86: -476863087
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_87: 558146204
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_88: 148316280
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_89: -772600444
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_9: 1657658903
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_90: 604475701
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_91: 253529082
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_92: -154873374
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_93: 2069803433
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_94: 1761695120
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_95: -235562694
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_96: 83606764
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_97: 2121073913
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_98: 1082370561
+      SNES - Kirby Super Star Kirbys Fun Pak - Samurai Kirby_99: 1882588912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
