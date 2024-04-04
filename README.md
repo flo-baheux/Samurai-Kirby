@@ -4,6 +4,7 @@ Sources for my game Samurai Kirby, a demo for a reflex game using a dedicated se
 
 [To test the game please visit the itch.io page!](https://laywelin.itch.io/samurai-kirby?password=Laywelin-42)
 
+[You can find the server source here](https://github.com/flo-baheux/Samurai-Kirby-Server)
 
 ## My goals through this project
 
@@ -19,6 +20,9 @@ There is a bunch of specifics things I either wanted to learn, test or focus on.
 
 ## Caveats I'am aware of
 
+### No loading or error display
+I did not spend time working on that, and I regret that it's not implemented!
+
 ### Polymorphism and casts (as used in serialization) is highly unefficient.
 I did it to play with C# to get used to it, and with this game scope it's a non issue. However that could be highly improved!
 
@@ -30,4 +34,6 @@ It would have been better for instance to have a queue of messages and use the n
 I did not learn about that paradigm until recently - my next project will probably dip into it because I'm very curious about it!
 However from my current understanding this would not change much on this project considering its size.
 
-
+### It's not customizable enough - not suited for a team
+I did not leverage Prefabs enough. It shows that it's a solo project, and my next project will focus a bit more on setting things up
+as if I was in a multidisciplinary team.
