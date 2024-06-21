@@ -44,22 +44,22 @@ static public class ControllerButtonSpriteManager
     Sprite[] sprites = Resources.LoadAll<Sprite>("Sprites/controllerButtonIcons");
     controllerButtonSprites[ControllerButton.NORTH][ControllerType.XBOX] = sprites[0];
     controllerButtonSprites[ControllerButton.NORTH][ControllerType.PS] = sprites[1];
-    controllerButtonSprites[ControllerButton.NORTH][ControllerType.SWITCH] = sprites[2];
+    // controllerButtonSprites[ControllerButton.NORTH][ControllerType.SWITCH] = sprites[2];
     controllerButtonSprites[ControllerButton.NORTH][ControllerType.KEYBOARD] = sprites[3];
 
     controllerButtonSprites[ControllerButton.WEST][ControllerType.XBOX] = sprites[4];
     controllerButtonSprites[ControllerButton.WEST][ControllerType.PS] = sprites[5];
-    controllerButtonSprites[ControllerButton.WEST][ControllerType.SWITCH] = sprites[6];
+    // controllerButtonSprites[ControllerButton.WEST][ControllerType.SWITCH] = sprites[6];
     controllerButtonSprites[ControllerButton.WEST][ControllerType.KEYBOARD] = sprites[7];
 
     controllerButtonSprites[ControllerButton.EAST][ControllerType.XBOX] = sprites[8];
     controllerButtonSprites[ControllerButton.EAST][ControllerType.PS] = sprites[9];
-    controllerButtonSprites[ControllerButton.EAST][ControllerType.SWITCH] = sprites[10];
+    // controllerButtonSprites[ControllerButton.EAST][ControllerType.SWITCH] = sprites[10];
     controllerButtonSprites[ControllerButton.EAST][ControllerType.KEYBOARD] = sprites[11];
 
     controllerButtonSprites[ControllerButton.SOUTH][ControllerType.XBOX] = sprites[12];
     controllerButtonSprites[ControllerButton.SOUTH][ControllerType.PS] = sprites[13];
-    controllerButtonSprites[ControllerButton.SOUTH][ControllerType.SWITCH] = sprites[14];
+    // controllerButtonSprites[ControllerButton.SOUTH][ControllerType.SWITCH] = sprites[14];
     controllerButtonSprites[ControllerButton.SOUTH][ControllerType.KEYBOARD] = sprites[15];
   }
 

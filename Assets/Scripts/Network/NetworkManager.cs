@@ -5,11 +5,15 @@ using System.Threading;
 using System.Threading.Tasks;
 using UnityEngine;
 using Newtonsoft.Json;
+using System.Net.WebSockets;
+using Unity.VisualScripting;
 
 public class NetworkManager : MonoBehaviour
 {
-  private TcpClient client;
-  private NetworkStream stream;
+  // private TcpClient client;
+  private ClientWebSocket client;
+
+  // private NetworkStream stream;
 
   public static NetworkManager instance;
   public static int DATA_BUFFER_SIZE = 4096;
@@ -56,21 +60,52 @@ public class NetworkManager : MonoBehaviour
     new Thread(() =>
     {
       Thread.CurrentThread.IsBackground = true;
+      Debug.Log("NEW THREAD STARTED");
       ReceiveFromNetwork();
     }).Start();
   }
 
-  void ReceiveFromNetwork()
+  public async Task ConnectToServerAsync()
+  {
+    try
+    {
+      if (IsConnected == false)
+      {
+        // client = new TcpClient();
+        client = new ClientWebSocket();
+        // await client.ConnectAsync(IPAddress.Parse(serverHost), serverPort);
+        await client.ConnectAsync(new Uri("ws://" + IPAddress.Parse(serverHost).ToString() + ":" + serverPort), CancellationToken.None);
+        // stream = client.GetStream();
+        IsConnected = true;
+        OnConnect?.Invoke();
+      }
+      else
+        Debug.Log("Could not connect to server");
+
+    }
+    catch (Exception e)
+    {
+      Debug.LogException(e);
+      Debug.Log("Failed to connect to server - " + e.Message);
+      IsConnected = false;
+      OnFailureToConnect?.Invoke();
+      return;
+    }
+  }
+
+  async void ReceiveFromNetwork()
   {
     while (true)
     {
-      if (!IsConnected || !stream.CanRead)
-        continue;
+      // if (!IsConnected || !stream.CanRead)
+      //   continue;
       try
       {
         byte[] buffer = new byte[DATA_BUFFER_SIZE];
-        int bytesRead = stream.Read(buffer, 0, buffer.Length);
-        if (bytesRead > 0)
+        WebSocketReceiveResult result = await client.ReceiveAsync(buffer, CancellationToken.None);
+        // int bytesRead = stream.Read(buffer, 0, buffer.Length);
+        int bytesRead = result.Count;
+        if (result.Count > 0)
         {
           string receivedData = System.Text.Encoding.UTF8.GetString(buffer, 0, bytesRead);
           string[] receivedMessages = receivedData.Split('\n');
@@ -130,44 +165,20 @@ public class NetworkManager : MonoBehaviour
       {
         Debug.LogError("Exception raised in network thread - " + e.GetType().ToString() + ": " + e);
         IsConnected = false;
-        client.Close();
+        await client.CloseAsync(WebSocketCloseStatus.ProtocolError, "", CancellationToken.None);
+
         client.Dispose();
         UnityMainThread.instance.AddJob(() => OnDisconnect?.Invoke());
       }
     }
   }
 
-  public async Task ConnectToServerAsync()
-  {
-    try
-    {
-      if (IsConnected == false)
-      {
-        client = new TcpClient();
-        await client.ConnectAsync(IPAddress.Parse(serverHost), serverPort);
-        stream = client.GetStream();
-        IsConnected = true;
-        OnConnect?.Invoke();
-      }
-      else
-        Debug.Log("Could not connect to server");
-
-    }
-    catch (Exception e)
-    {
-      Debug.LogException(e);
-      IsConnected = false;
-      OnFailureToConnect?.Invoke();
-      return;
-    }
-  }
-
   public async Task DisconnectFromServerAsync()
   {
-    if (client.Connected)
+    if (client.State == WebSocketState.Open)
     {
       await SendToServerAsync("disconnect");
-      client.Close();
+      await client.CloseAsync(WebSocketCloseStatus.NormalClosure, "", CancellationToken.None);
       OnDisconnect?.Invoke();
       IsConnected = false;
     }
@@ -220,10 +231,11 @@ public class NetworkManager : MonoBehaviour
   {
     try
     {
-      if (client.Connected && stream.CanWrite)
-        await stream.WriteAsync(System.Text.Encoding.UTF8.GetBytes(message));
-      else
-        Debug.Log("Could not send message to server");
+      // if (client.Connected && stream.CanWrite)
+      //   await stream.WriteAsync(System.Text.Encoding.UTF8.GetBytes(message));
+      // else
+      //   Debug.Log("Could not send message to server");
+      await client.SendAsync(System.Text.Encoding.UTF8.GetBytes(message), WebSocketMessageType.Binary, true, CancellationToken.None);
     }
     catch (Exception e)
     {
@@ -237,10 +249,10 @@ public class NetworkManager : MonoBehaviour
   {
     if (client != null)
     {
-      if (client.Connected)
-      {
-        client.Close();
-      }
+      // if (client.Connected)
+      // {
+      //   client.Close();
+      // }
       client.Dispose();
     }
   }

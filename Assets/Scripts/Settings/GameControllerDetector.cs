@@ -1,13 +1,11 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 using UnityEngine.InputSystem.DualShock;
-using UnityEngine.InputSystem.Switch;
 
 public enum ControllerType
 {
   XBOX,
   PS,
-  SWITCH,
   KEYBOARD
 };
 
@@ -38,10 +36,6 @@ public class GameControllerDetector : MonoBehaviour
       if (Gamepad.current is DualShockGamepad)
       {
         currentControllerType = ControllerType.PS;
-      }
-      else if (Gamepad.current is SwitchProControllerHID)
-      {
-        currentControllerType = ControllerType.SWITCH;
       }
       else
       {

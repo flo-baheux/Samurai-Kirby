@@ -9,8 +9,8 @@ public class PlayerPrefsApplier : MonoBehaviour
   public static float defaultGlobalVolume = 1;
   public static float defaultBGMVolume = 1;
   public static float defaultSFXVolume = 1;
-  public static int defaultLanguage = 0;
-  public static int defaultFont = 0;
+  public static int defaultLanguage = 1;
+  public static int defaultFont = 1;
   public static int defaultFlashingScreenEnabled = 1;
 
   void Start()
@@ -30,15 +30,5 @@ public class PlayerPrefsApplier : MonoBehaviour
       mixer.SetFloat("SFXVolume", Mathf.Log10(PlayerPrefs.GetFloat("SFXVolume")) * 20);
     else
       mixer.SetFloat("SFXVolume", Mathf.Log10(defaultSFXVolume) * 20);
-
-    if (PlayerPrefs.HasKey("Language"))
-      LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[PlayerPrefs.GetInt("Language")];
-    else
-      LocalizationSettings.SelectedLocale = LocalizationSettings.AvailableLocales.Locales[defaultLanguage];
-
-    if (PlayerPrefs.HasKey("Font"))
-      FontManager.instance.SetFontById(PlayerPrefs.GetInt("Font"));
-    else
-      FontManager.instance.SetFontById(defaultFont);
   }
 }
